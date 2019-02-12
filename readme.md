@@ -1,5 +1,5 @@
 ### egg-gulp
-gulp plugin for egg, only use in `local`(EGG_SERVER_ENV)
+gulp plugin for egg, only use in `local`/`test`/`unittest`(EGG_SERVER_ENV)
 
 #### Version
 - npm ^5.2.0
